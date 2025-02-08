@@ -1,14 +1,3 @@
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-# https://discord.gg/f5jvwrYGSt
-
-
-
 import os
 import asyncio
 import discord
